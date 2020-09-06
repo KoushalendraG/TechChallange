@@ -17,6 +17,7 @@ Please install below softwares before running the project:
  - Set npm Environmental variables path
  - Download Appium Server from Node (npm install -g appium)
  - Install Eclipse and import this project
+ - For this project I have used Android device, so please attach any android device in debugging mode to the system for execution.
  
 To execute this project please navigate to the project location in command prompt and run, "mvn test verify" command. 
 Report will be generated @ "{ProjectLocation}\target\cucumber-html-reports\overview-features.html". 
