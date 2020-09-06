@@ -5,6 +5,7 @@ Major components of this framework are :
  - Appium
  - JUnit
  - Cucumber
+ - RestAssured
  - Pojo Clases for API
  - Page Object for UI 
  - Html Reporting by damianszczepanik
